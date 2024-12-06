@@ -1,5 +1,5 @@
 volumes:
-    /mnt/storage/inventree-data:
+    inventree-data:
         driver: local
 
 services:
