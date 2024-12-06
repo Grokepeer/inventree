@@ -1,5 +1,5 @@
 volumes:
-    ${INVENTREE_EXT_VOLUME}:
+    /mnt/storage/inventree-data:
         driver: local
 
 services:
